@@ -1,0 +1,8 @@
+- layout: left
+  name: John Doe
+  link: www.github.com/johndoepage
+  job_title: Most awesome developer
+  quote: >
+   This section can be used by others to add references at any time, please feel free to submit a request if you would like to do so!
+  description: |
+    I have never managed to work with Bogdan directly but have stumbled upon his work several times and was always impressed by his skills and knowledge!

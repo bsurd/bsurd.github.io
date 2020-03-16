@@ -1,0 +1,103 @@
+# Site
+repository: bsurd
+favicon: images/favicon.ico
+
+# Personal info
+name: Bogdan Surd
+title: Senior QA Engineer
+email: surd.bogdan@gmail.com
+# phone: +40 759 131 362
+website: bsurd.github.io/
+
+darkmode: false
+
+# Social links
+github_username:  bsurd
+linkedin_username: bsurd
+# youtube_username: jekyll
+# facebook_username: jekyll
+# twitter_username: jekyll
+# stackoverflow_username: "00000001"
+# instagram_username: jekyll
+
+# # Additional icon links
+# additional_links:
+# - title: placeholder
+#   icon: fa-twitter # (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: https://placeholder.com
+# - title: placeholder
+#   icon: fa-airbnb # (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: https://placeholder.com
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | 
+  Hi, my name is Bogdan and I'm a <mark>Senior QA Engineer</mark> currently employed at Cognizant Softvision. I started working here on a <mark>TOJ</mark> position and rapidly climbed up the ladder while expanding my knowledge and skills.
+
+  I was always interested in working in this type of industry but never knew if it would be a good fit for me or not. I've managed to work several different jobs, ranging from delivering newspapers, assembling fuses, database entry, all the way to hauling and construction work. So when I got the call and offered my first job in the industry I have to say that I was a bit sceptical, not knowing if I would stick with it or try out something new in a year or two.
+
+  But here we are, I'm still going at it and enjoying every minute of it! But there is still much for me to learn, the good part is that I don't give up easily, always willing to put in the effort! 
+
+# Experience Section
+# experience_title: Experience2
+
+# Education Section
+# education_title: Education
+
+# Projects Section
+# projects_title: Projects
+
+# Contributions Section
+# projects_title: Contributions
+
+# More Section
+more_title: Hobbies and other interests
+more_content: | 
+  Besites my job I'm also interested in the following:
+   - **Mountain Climbing**  
+       I've started picking this up again over the past years and trying to go somewhere on each and every weekend. (except those where other things were planned)  
+       
+   - **Trail Running**  
+       Like to go at it one or two times a week, company is welcome/preffered.  
+
+   - **Gym (working out)**  
+       I casually like to go to the gym, mostly during summer time.  
+
+   - **Cooking (noob level chef right here)**  
+       I'm a pro at trying out complicated recipes, pulling it off the first time I do them, then messing everything up the nth time I try to do the exact same thing again and again!  
+
+   - **Video Gaming**  
+       Casual but competitive gamer, whenever I'm not in the mood for anything else I like to relax playing something on the computer.  
+
+   - **Netflix Watcher**  
+       Proeficient at looking at the telly and bingewatching shows I'm interested in.  
+
+   - **Being Fat**  
+       Altho I do plenty of activities, I am very talented and can still manage keep my nice round fluffy silhouette somehow.  
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/modern-resume-theme 
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

@@ -1,0 +1,6 @@
+<div class="container references-container">
+  <h3>{{ site.references_title | default: "References" }}</h3>
+  {% for references in site.data.references %}
+    {% include {{ references.layout | default: 'left' | append: ".html" }} item=references %}
+  {% endfor %}
+</div>

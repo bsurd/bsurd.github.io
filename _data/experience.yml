@@ -1,0 +1,34 @@
+- layout: left
+  company: Cognizant Softvision
+  link: cognizantsoftvision.com
+  jobs:
+    - title: Senior QA Engineer 1
+      dates: February 2020 - present
+    - title: Mid QA Engineer 2
+      dates: February 2018 - February 2020
+    - title: Junior QA Engineer 2
+      dates: February 2017 - February 2018
+    - title: TOJ (Training on the job)
+      dates: February 2016 - February 2017
+  description: | 
+   Starting out, back in 2016, I had little to no experience working in the industry. During my first year here I started learning the basics of how to report bugs, creating test cases, and what a test plan is and should contain.
+
+   Fast forward about a year and a half into the industry, I've managed to work with several other different technologies and platforms, improving on existing and new skills. Learned some basic <mark>SQL</mark>, <mark>Python</mark>, <mark>JavaScript</mark>, <mark>C#</mark>, <mark>Bash</mark> and <mark>Java</mark> needed for testing purposes as I was testing mobile apps that had a website and DB component to them as well.
+
+   After doing a project change I've started on polishing my known skills and working on leadership, while also expanding what I know about <mark>Java</mark> and <mark>Selenium</mark> in order to advance from manual to automation.
+  
+   Skills:
+     - Test Plan, Test Design, Test Execution, Bug Reporting
+     - Coaching/mentoring employees and taking on partial leadership responsibilities
+     - Troubleshooting technical problems and knowledge sharing within the team
+     - Creating ramp-up plans for new members
+     - Documenting how to set up and use project-specific tools
+     - Experienced with agile methodology (scrum and kanban)
+     - Talking with the clients, proposing test plan strategies and resource allocation 
+     - Technical interviews for hiring new employees
+
+   Tools and software skills used:
+     - Android Studio, IntelliJ, PyCharm, Anaconda, Visual Studio, SQL Workbench
+     - Jira, TestRail, TestLink, Waffle, Trello, Bugzilla, Git
+     - <mark>Java</mark>, C#, Python, JavaScript, SQL, Bash, Markdown
+     - <mark>Selenium</mark>, Espresso, Maven
