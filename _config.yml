@@ -65,7 +65,7 @@ more_content: |
        I casually like to go to the gym, mostly during summer time.  
 
    - **Cooking (noob level chef right here)**  
-       I'm a pro at trying out complicated recipes, pulling it off the first time I do them, then messing everything up the nth time I try to do the exact same thing again and again!  
+       I'm a pro at trying out complicated recipes, pulling it off the first time I do them, then messing everything up the nth time I try to do the exact same thing all-over again!  
 
    - **Video Gaming**  
        Casual but competitive gamer, whenever I'm not in the mood for anything else I like to relax playing something on the computer.  
@@ -78,6 +78,9 @@ more_content: |
 
 # Footer
 footer_show_references: true
+footer_content: |
+  surd.bogdan@gmail.com  
+   
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme 
