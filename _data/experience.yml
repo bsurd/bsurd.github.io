@@ -29,6 +29,6 @@
 
    Tools and software skills used:
      - Android Studio, IntelliJ, PyCharm, Anaconda, Visual Studio, SQL Workbench
-     - Jira, TestRail, TestLink, Waffle, Trello, Bugzilla, Git
-     - <mark>Java</mark>, C#, Python, JavaScript, SQL, Bash, Markdown
-     - <mark>Selenium</mark>, Espresso, Maven
+     - Jira, TestRail, TestLink, HP Alm, Waffle, Trello, Bugzilla, Git
+     - <mark>Java</mark>, <mark>Python</mark>, C#, JavaScript, SQL, Bash, Markdown
+     - <mark>Selenium</mark>, Espresso, Maven, Jenkins, Opentest, Swagger
